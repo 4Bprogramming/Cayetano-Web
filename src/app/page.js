@@ -4,10 +4,9 @@ import HomeImg from "@/Components/HomeSection/HomeImg";
 
 export default function Home() {
   return (
-    <div>
+ <>
       <NavBar />
       <HomeImg/>
-   
-    </div>
+  </>
   );
 }
